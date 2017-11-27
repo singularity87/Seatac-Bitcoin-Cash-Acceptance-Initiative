@@ -10,7 +10,7 @@
 **Hashtag:** #SeatacBCH
 
 
-**Name of BCF Gitter community room:** [Insert the name of the specific BCF Gitter community room created for the project.]
+**Name of BCF Gitter community room:** SeatacBCH
 
 
 **Stakeholders:** 
@@ -28,8 +28,12 @@ The goal of the Seatac BCAI will be to prepare, deploy, and build a ground-based
 
 **Resources:**
 
-[Insert a list of resources required including; skills, manpower, knowledge, services, materials, connections]
-
+Manpower: As many people in the Seatac area who wish to help out.
+Materials: I still need an infographic and maybe a 3-fold.
+Skills: I am going to need somebody who can advise me on how to add BCH support to websites.
+Services: Merchant PoS system Fiat/BCH.
+Knowledge: I need information on how to accept deposits and escrow using BCH.
+Connections: Anybody interested in the project
 
 **Budget:**
 
@@ -51,15 +55,14 @@ Proof of Concept Phase
 
 **Goals:**
 
-[Insert a list of clearly defined list of goals including: 
-    - who you want to reach, 
-    - how many people you want to reach, 
-    - where are the people you want to reach,
-    - why you want to reach them.]
-
+- I want to reach small businesses, local non-profits, and community-driven municipality organizations.
+- I want to reach millions of people.
+- I want to reach people in the Seattle-Tacoma Area.
+- To create a Bitcoin Cash Local Economy.
 
 **Other:**
 
 Facebook:https://www.facebook.com/SeatacBCH/
 Twitter: @SeatacBCH
+Please read this for a more detailed description of my plan:
 https://www.dropbox.com/s/cpu8tfnd2b3iukx/Seatac%20BCAI%20Proposal.pdf?dl=0

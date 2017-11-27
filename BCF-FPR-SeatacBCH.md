@@ -15,10 +15,10 @@
 
 **Stakeholders:** 
 
-Will Carrick
-Slack: Wecx-
-Twitter: @Wecx_
-Reddit: Wecx-
+- Will Carrick
+- Slack: Wecx-
+- Twitter: @Wecx_
+- Reddit: Wecx-
 
 
 **Project Summary:** 
@@ -28,28 +28,36 @@ The goal of the Seatac BCAI will be to prepare, deploy, and build a ground-based
 
 **Resources:**
 
-Manpower: As many people in the Seatac area who wish to help out.
-Materials: I still need an infographic and maybe a 3-fold.
-Skills: I am going to need somebody who can advise me on how to add BCH support to websites.
-Services: Merchant PoS system Fiat/BCH.
-Knowledge: I need information on how to accept deposits and escrow using BCH.
-Connections: Anybody interested in the project
+- Manpower: As many people in the Seatac area who wish to help out.
+- Materials: I still need an infographic and maybe a 3-fold.
+- Skills: I am going to need somebody who can advise me on how to add BCH support to websites.
+- Services: Merchant PoS system Fiat/BCH.
+- Knowledge: I need information on how to accept deposits and escrow using BCH.
+- Connections: Anybody interested in the project
 
 **Budget:**
 
 Total: $730.00 USD
+
 BCH Accepted Window Decal: 100 @5 Total $500
+
 Kawaiicrypto.com
+
 BCH Accepted Here Vinyl 2000 @ .0875 Shipping $55.00
+
 Total $230
+
 https://dirhx.en.alibaba.com/
 
 
 **Timeline:** 
 
 Preparation Phase
+
 11/19/2017 - 01/01/2017
+
 Proof of Concept Phase
+
 01/02/2017 - 03/01/2017
 
 
